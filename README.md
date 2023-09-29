@@ -7,11 +7,8 @@ A simple Rock Paper Scissors game built using HTML5 and JavaScript.
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
